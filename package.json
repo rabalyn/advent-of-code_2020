@@ -1,0 +1,24 @@
+{
+  "name": "aoc_2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:01": "node src/days/01/index.js"
+  },
+  "keywords": [
+    "advent of code 2020",
+    "aoc2020",
+    "aoc",
+    "advent of code"
+  ],
+  "author": "@rabalyn",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
